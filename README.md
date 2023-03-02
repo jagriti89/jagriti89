@@ -1,4 +1,4 @@
-### Hi there 👋
+![logo](https://github.com/jagriti89/jagriti89/blob/main/1619644762_github-desktop_story.jpg)
 
 <h1 align="center">Hi 👋, I'm Jagriti singh</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
